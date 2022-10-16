@@ -2,5 +2,6 @@
 
 # Present
 * [Write some algorithms questions](https://github.com/neKoui1/leetcode)
-* Learn Java, data structure and algorithms systematically with CS 61B and Algorithms on coursera.
-* [Welcome to my blog!](https://nekoui1.github.io/)
+* Learn some interesting knowledge about gin, vue, springboot and manim
+* Trying not to postpone my graduation date😨😥😇
+
