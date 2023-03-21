@@ -1,7 +1,13 @@
-![QCO5DWD9F0M47(4YWXMUD{B](https://user-images.githubusercontent.com/77609544/165933147-462e2edb-e574-41a1-be7c-fc78ae94fc1b.jpg)
+<div align=center><img src="https://user-images.githubusercontent.com/77609544/226499700-b727bc2e-8b70-4de6-83c7-82322b8f7e09.gif" /></div>
+
+<h1 align="center">Hi there👋</h1>
 
 # Present
 * [Write some algorithms questions](https://github.com/neKoui1/leetcode)
-* Learn some interesting knowledge about gin, vue, springboot and manim
+* Currently learning Algorithms, Manim, ML & Statistics
+* I am looking for an INTERNSHIP for 2023 summer vacation!
 * Trying not to postpone my graduation date😨😥😇
 
+# Simple Projects
+* [Cornfield](https://github.com/neKoui1/Cornfield): A simple blog web test with the implemention of gin & vue
+* Reptile: An easily achievable IM system using gin & mongoDB
