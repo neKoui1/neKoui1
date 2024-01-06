@@ -15,4 +15,4 @@
 | [Cornfield](https://github.com/neKoui1/Cornfield?tab=readme-ov-file#cornfield) | A web blog system using gin and vue. Quite simple and crude. |
 | [Algorithms](https://github.com/neKoui1/leetcode) | Algorithms problems solved during my first three years in college. However I have a memory like a sieve:< |
 | 2024 | Воскресение |
-| [Sponge](https://github.com/neKoui1/Sponge/tree/main?tab=readme-ov-file#sponge) |
+| [Sponge](https://github.com/neKoui1/Sponge/tree/main?tab=readme-ov-file#sponge) | 2024 study notes |
