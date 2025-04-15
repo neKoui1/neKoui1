@@ -4,7 +4,7 @@
 * An intern full stack developer in Shanghai
 * Know a little about ML, DL
 * Learn TOEFL & IELTS & JLPT
-* Mainly used programme language: Golang, Python and Typescript. Currently learn node and ts
+* Mainly used programme language: Golang, Python and Typescript.
 
 # Gadgets
 | Code Name | Simple Introduction |
