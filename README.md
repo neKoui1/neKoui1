@@ -1,7 +1,7 @@
 <h1 align="center">Good morning, Good afternoon, Good evening, and Good night👋</h1>
 
 # Present
-* An intern full stack developer in Shanghai
+* A rookie full stack developer in Shanghai
 * Know a little about ML, DL
 * Learn TOEFL & IELTS & JLPT
 * Mainly used programme language: Golang, Python and Typescript.
