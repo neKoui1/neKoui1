@@ -16,4 +16,4 @@
 | [Algorithms](https://github.com/neKoui1/leetcode) | Algorithms problems solved during my first three years in college. However I have a memory like a sieve:< |
 | 2025 | Воскресение |
 | [hallucination](https://github.com/neKoui1/hallucination?tab=readme-ov-file#hallucination) | study notes |
-| | |
+| [parseExcel](https://github.com/neKoui1/parseExcel?tab=readme-ov-file#parseexcel) | parse and generate json files based on WeChat chat records to facilitate LLM processing |
