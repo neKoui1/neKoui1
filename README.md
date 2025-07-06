@@ -10,6 +10,7 @@
 | 2025 | Воскресение |
 | [hallucination](https://github.com/neKoui1/hallucination?tab=readme-ov-file#hallucination) | study notes |
 | [parseExcel](https://github.com/neKoui1/parseExcel?tab=readme-ov-file#parseexcel) | parse and generate json files based on WeChat chat records to facilitate LLM processing |
+| [RedditScraper](https://github.com/neKoui1/RedditScraper?tab=readme-ov-file#redditscraper) | use reddit praw for reddit data scraping and excelize. Simple gizmo |
 | 2023 |
 | Education System | Trash. My first time to work with others in Github. Backend is the main part I am responsible for. Springboot and mybatis. |
 | ShareIdea | Another Trash. A forum for users to share interesting ideas with others. Teamwork using springboot, mybatis and vue where I mainly do the User part and frontend. |
